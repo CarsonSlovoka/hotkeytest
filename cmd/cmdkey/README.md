@@ -1,0 +1,3 @@
+- Ctrl+F3
+- Ctrl+F4
+- Command+F6
